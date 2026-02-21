@@ -1,6 +1,4 @@
 <div align="center">
-[//]: # (<img src="avatar.jpg" alt="Livio Tinnirello" width="220" style="border-radius: 50%; border: 4px solid #f0f0f0;" />)
-  
   <h1>Livio Tinnirello</h1>
   
   <p><strong>Full-Stack & Platform Engineer | Freelance Missions</strong></p>
