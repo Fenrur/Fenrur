@@ -22,7 +22,7 @@ React • Next.js • TypeScript • Tailwind CSS
 Java • Kotlin • C# • Node.js
 
 **Databases & Workflows**  
-SQL • Redis • Temporal
+SQL • Redis • ETCD • Temporal
 
 **Infrastructure & Cloud**  
 Docker • Kubernetes • AWS (EKS, ECS) • Azure • Terraform • GitHub Actions
