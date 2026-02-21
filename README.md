@@ -29,10 +29,10 @@ Docker • Kubernetes • AWS (EKS, ECS) • Azure • Terraform • GitHub Acti
 
 ### 💼 Selected Work
 
-- **IoT Building Management Platform**  
+- **IoT Building Management Platform - [Bouygues Énergies et Services](https://www.bouygues-es.fr/)**  
   Designed and built a complete IoT stack for technical building management — deployable on cloud, on-premise, or Azure Kubernetes.
 
-- **Software Engineer – Orano**  
+- **Software Engineer – [Orano](https://www.orano.group)**  
   Developed internal enterprise software solutions.
 
 ### 📬 Let's talk
